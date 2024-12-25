@@ -1,0 +1,50 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+    
+  }
+  
+  .cont{
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  width: 270px;
+  margin-top: 100px;
+  
+  }
+  img{
+    width: 100%;
+   border-radius: 10px;
+  }
+  p{
+    font-size:15px ;
+    color: hsl(218, 44%, 22%) ;
+  }
+  h2{
+    
+   
+      font-family: "roboto";
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      font-variation-settings:
+        "MORF" 0;
+        font-weight: bolder;
+        margin: 7px;
+    }
+  p{
+    margin: 10px;
+    margin-top: 15px;
+    font-family: "roboto";
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      font-variation-settings:
+        "MORF" 0;
+  
+  }
+  
